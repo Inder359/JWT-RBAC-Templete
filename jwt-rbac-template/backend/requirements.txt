@@ -1,0 +1,27 @@
+# Django REST Framework
+djangorestframework==3.15.2
+djangorestframework-simplejwt==5.3.1
+drf-spectacular==0.27.2
+
+# Django
+Django==5.1.7
+
+# Database
+psycopg2-binary==2.9.9
+
+# CORS
+django-cors-headers==4.3.1
+
+# Security
+django-extensions==3.2.3
+python-dotenv==1.0.1
+
+# Swagger (drf-spectacular dependencies)
+inflection==0.5.1
+jsonschema==4.22.0
+PyYAML==6.0.1
+uritemplate==4.1.1
+
+# Core
+gunicorn==21.2.0
+whitenoise==6.6.0
